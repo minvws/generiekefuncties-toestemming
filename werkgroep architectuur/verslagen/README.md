@@ -1,1 +1,1 @@
-Hier staan de verslagen van bijeenkomsten van de werkgroep architectuur.
+Hier staan de verslagen van de bijeenkomsten van de werkgroep architectuur.
