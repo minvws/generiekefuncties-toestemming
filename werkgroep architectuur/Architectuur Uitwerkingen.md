@@ -1,3 +1,4 @@
+# Sequentiediagrammen
 ## Sequentiediagram 1: Zorgaanbieder gebruikt TV als PDP
 ```mermaid
 sequenceDiagram
@@ -34,7 +35,11 @@ sequenceDiagram
 ```
 ## Sequentiediagram 2
 
-# Archimate 3.2 SVG (raw file apart in repo)
+# Archimate tekening
+## Archimate 3.2 raw file
+(Generieke Functie Toestemmingen.xml) apart in deze repo voor gebruik in Archimate3.2 ondersteunende tools zoals Archi
+
+## Archimate 3.2 SVG
 ![Default View](https://github.com/minvws/generiekefuncties-toestemming/assets/123090714/bee7d517-61b1-45ec-b392-a6ccce1a5452)# Sequentiediagrammen (MerMaid)
 ![Uploadin<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN'
