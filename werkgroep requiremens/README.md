@@ -4,7 +4,7 @@ De werkgroep requirements toestemming werkt gezamelijk aan de requirements voor 
 
 # Methodiek
 
-Voor de structurering van het project laten we ons inspirer door de [Volere requirements methodiek](https://www.volere.org/templates/volere-requirements-specification-template/).
+Voor de structurering van het project laten we ons inspireren door de [Volere requirements methodiek](https://www.volere.org/templates/volere-requirements-specification-template/).
 
 # Werkwijze
 De werkgroep komt wekelijks online of op locatie bij elkaar. De meetings worden vastgelegd in gespreksverslagen onderd de map "Verslagen".
