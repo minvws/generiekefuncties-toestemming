@@ -17,6 +17,6 @@ De lijst van requirements is openbaar beschikbaar. De werkgroep kan haar achterb
 Niet werkgroepleden zijn uitgenodigd om rond te kijken en indien je input wilt geven kun je dit doen middels comments.
 
 ## Handleiding Github
-Github werkt net even wat anders dan bijvoorbeeld Office 365 of Google docs. We hebben daarom verschillende handleidingen opgesteld [https://github.com/minvws/generiekefuncties-adressering/tree/main/handleiding](https://github.com/minvws/generiekefuncties-toestemming/tree/main/handleiding)
+Github werkt net even wat anders dan bijvoorbeeld Office 365 of Google docs. We hebben daarom verschillende handleidingen opgesteld https://github.com/minvws/generiekefuncties-toestemming/tree/main/handleiding
 
-Voor vragen kun je ook mailen met: info.generiekefuncties@minvws.nlAuto-generated README for generiekefuncties-toestemming
+Voor vragen kun je ook mailen met: info.generiekefuncties@minvws.nl
